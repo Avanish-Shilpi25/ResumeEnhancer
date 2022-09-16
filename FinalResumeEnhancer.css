@@ -1,0 +1,21 @@
+.title{
+    text-align: center;
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+}
+.name{
+    text-align: center;
+    color: grey;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+}
+.signin{
+    background-color: lightskyblue;
+    color: white;
+    width: 200px;
+    font-size: 25px;
+    border-radius: 8px;
+    margin-top: 35%;
+    margin-left: 43%;
+}
