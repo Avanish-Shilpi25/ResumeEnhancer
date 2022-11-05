@@ -1,8 +1,9 @@
 .title{
     text-align: center;
+    margin-top: 50%;
     color: black;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 70px;
+    font-size: 60px;
 }
 .name{
     text-align: center;
@@ -19,3 +20,8 @@
     margin-top: 35%;
     margin-left: 43%;
 }
+  img{
+      width: 100%;
+      max-height: auto;
+      opacity: .4;
+  }

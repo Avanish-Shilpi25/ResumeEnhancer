@@ -18,6 +18,3 @@ soup = BeautifulSoup(response.content, 'html.parser')
 jobDescription = soup.find_all('div', 'jobsearch-jobDescriptionText')
 for p in soup.find_all('p'):
     print (p.text)
-
- 
-
